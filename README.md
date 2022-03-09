@@ -1,4 +1,4 @@
-Real_Time_Programming
+rtp
 =====
 
 An OTP application
